@@ -12,9 +12,9 @@ const REDIRECT_URI = "http://localhost:3000/redirect";
 // including the clientSecret
 const config = {
     auth: {
-        clientId: "a29fcb09-0699-4e68-9e68-a238b2039e67",
-        authority: "https://login.microsoftonline.com/d303db8c-d034-4010-a7ee-c47bebf5bca3",
-        clientSecret: "yo08Q~iPnIE-mV-yZ1vX5G.Hb-gyYRSPULxT9bHQ"
+        clientId: "xxx",
+        authority: "xxx",
+        clientSecret: "xxx"
     },
     system: {
         loggerOptions: {
